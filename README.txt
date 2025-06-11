@@ -27,7 +27,6 @@ Go to the folder where you saved word_counter.py.
 
 Run this command:
 
-bash
 Copy code
 python3 word_counter.py
 (or python word_counter.py, depending on your system)
